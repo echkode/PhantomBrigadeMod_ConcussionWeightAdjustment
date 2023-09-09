@@ -1,5 +1,7 @@
 # ConcussionWeightAdjustment
 
+**This mod is obsolete.** The game has been patched by the publisher. This is now something that can be configured through the `simulation` settings.
+
 A library mod for [Phantom Brigade](https://braceyourselfgames.com/phantom-brigade/) that uses only body mass to find the unit weight class adjustment for concussion damage.
 
 It is compatible with game version **1.1.2-b5993** (Epic/Steam).
